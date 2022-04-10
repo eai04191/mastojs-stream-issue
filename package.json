@@ -1,0 +1,13 @@
+{
+  "name": "mastojs-stream-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Irie Aoi <eai@mizle.net>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^17.0.23",
+    "masto": "^4.3.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
